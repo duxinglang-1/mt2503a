@@ -1,0 +1,9 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4012        120          0          0        932   APM_Util.obj
+      1212        128          0          8        328   sbc_anal.obj
+      1516        688          0          0        188   sbc_common.obj
+      2408          0          0          0        172   sbc_enc.obj
+       284          0          4          0        260   sbc_seq.obj
+      9432        936          4          8       1880   TOTAL
+

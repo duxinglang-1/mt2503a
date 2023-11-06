@@ -1,0 +1,6 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4522        106         24       6564       3440   epodownload.obj
+     16988        416          8      20760       6228   gps_uart_hdlr.obj
+     21510        522         32      27324       9668   TOTAL
+

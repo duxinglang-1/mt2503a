@@ -1,0 +1,5 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+       312          0          0          2        128   lcd_lqt.obj
+       312          0          0          2        128   TOTAL
+

@@ -1,0 +1,774 @@
+Archive member included because of file (symbol)
+
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRTglob.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_CRT_glob)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRTfmode.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_CRT_fmode)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(txtmode.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_fmode)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(pseudo-reloc.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_pei386_runtime_relocator)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRT_fp10.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_fpreset)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(gccmain.o)
+                              ../debug/nvram_auto_gen.o (__main)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(pseudo-reloc-list.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(pseudo-reloc.o) (__RUNTIME_PSEUDO_RELOC_LIST_END__)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtbegin.o (__w32_sharedptr_initialize)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_chkstk.o)
+                              ../debug/nvram_auto_gen.o (_alloca)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_ctors.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(gccmain.o) (__CTOR_LIST__)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+                              ../debug/nvram_auto_gen.o (access)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+                              ../debug/nvram_auto_gen.o (stricmp)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dh.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o) (_head_libmoldname_a)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dt.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dh.o) (_libmoldname_a_iname)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_imp___iob)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_imp____set_app_type)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00517.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_imp__atexit)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00336.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_imp___onexit)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_cexit)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (__p__environ)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (signal)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (__p__fmode)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (_setmode)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (__getmainargs)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+                              ../debug/nvram_auto_gen.o (system)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+                              ../debug/nvram_auto_gen.o (sprintf)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+                              ../debug/nvram_auto_gen.o (strlen)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+                              ../debug/nvram_auto_gen.o (malloc)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+                              ../debug/nvram_auto_gen.o (fclose)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+                              ../debug/nvram_auto_gen.o (printf)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+                              ../debug/nvram_auto_gen.o (strrchr)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+                              ../debug/nvram_auto_gen.o (strstr)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+                              ../debug/nvram_auto_gen.o (strchr)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+                              ../debug/nvram_auto_gen.o (fgets)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+                              ../debug/nvram_auto_gen.o (_errno)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+                              ../debug/nvram_auto_gen.o (strerror)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+                              ../debug/nvram_auto_gen.o (fopen)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+                              ../debug/nvram_auto_gen.o (exit)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+                              ../debug/nvram_auto_gen.o (fprintf)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+                              ../debug/nvram_auto_gen.o (memset)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+                              ../debug/nvram_gen_util.o (strcmp)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o) (free)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o) (abort)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dh.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o) (_head_libmsvcrt_a)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dt.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dh.o) (_libmsvcrt_a_iname)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (SetUnhandledExceptionFilter@4)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o (ExitProcess@4)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o) (FindAtomA@4)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o) (AddAtomA@4)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o) (GetAtomNameA@12)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dh.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o) (_head_libkernel32_a)
+d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dt.o)
+                              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dh.o) (_libkernel32_a_iname)
+
+Allocating common symbols
+Common symbol       size              file
+
+gFS_IntQuotaSet     0x10              ../debug/fs_quota_entry_dump.o
+__DTOR_LIST__       0x10              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_ctors.o)
+__w32_sharedptr_terminate
+                    0x10              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+logical_data_item_table
+                    0x10              ../debug/nvram_gen_util.o
+s                   0x200             ../debug/nvram_auto_gen.o
+nvram_gen_total_lid
+                    0x10              ../debug/nvram_gen_util.o
+__w32_sharedptr     0x10              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+__CTOR_LIST__       0x10              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_ctors.o)
+FS_MAX_QSET         0x10              ../debug/fs_quota_entry_dump.o
+__w32_sharedptr_unexpected
+                    0x10              d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+system_boot_mode    0x10              ../debug/nvram_gen_util.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00400000                __image_base__ = 0x400000
+                0x00000000                __dll__ = 0x0
+                0x00001000                __section_alignment__ = 0x1000
+                0x00000200                __file_alignment__ = 0x200
+                0x00000004                __major_os_version__ = 0x4
+                0x00000000                __minor_os_version__ = 0x0
+                0x00000001                __major_image_version__ = 0x1
+                0x00000000                __minor_image_version__ = 0x0
+                0x00000004                __major_subsystem_version__ = 0x4
+                0x00000000                __minor_subsystem_version__ = 0x0
+                0x00000003                __subsystem__ = 0x3
+                0x00200000                __size_of_stack_reserve__ = 0x200000
+                0x00001000                __size_of_stack_commit__ = 0x1000
+                0x00100000                __size_of_heap_reserve__ = 0x100000
+                0x00001000                __size_of_heap_commit__ = 0x1000
+                0x00000000                __loader_flags__ = 0x0
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtbegin.o
+
+.text           0x00401000     0xb000
+ *(.init)
+ *(.text)
+ .text          0x00401000      0x2a0 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o
+                0x00401240                WinMainCRTStartup
+                0x00401220                mainCRTStartup
+                0x00401260                atexit
+                0x00401280                _onexit
+ .text          0x004012a0       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtbegin.o
+                0x004012a0                __do_sjlj_init
+ .text          0x004012b0     0x5200 ../debug/nvram_auto_gen.o
+                0x00401526                nvram_gen_sys_cache_default
+                0x0040246f                nvram_gen_lid_size
+                0x00403d78                nvram_gen_array
+                0x004019db                nvram_gen_sys_cache_res_func
+                0x00404c8d                nvram_gen_close_file
+                0x00404ecf                nvram_gen_restore_function
+                0x004054f0                nvram_gen_custpack_table
+                0x00405183                nvram_gen_database_key
+                0x00404b59                nvram_gen_create_file
+                0x00401326                nvram_gen_check_sys_cache
+                0x00405bb3                nvram_gen_cat_xml
+                0x00403aa3                nvram_gen_statistic
+                0x00401cd0                nvram_gen_ltable_list
+                0x0040584e                get_str_default_value
+                0x00404410                nvram_gen_secro
+                0x0040607e                nvram_gen_trace
+                0x004062e6                main
+ .text          0x004064b0      0x900 ../debug/nvram_gen_util.o
+                0x00406d48                nvram_gen_search_entry
+                0x004064b4                free_int_ilm
+                0x00406b6a                nvram_gen_construct_ltable
+                0x0040666e                nvram_gen_assign_entry
+                0x004064b0                NVRAM_EF_CAT_TIMESTAMP_DEFAULT
+ .text          0x00406db0      0x6e0 ../debug/nvram_factory_config.o
+ .text          0x00407490      0xda0 ../debug/nvram_data_items.o
+                0x00407491                NVRAM_EF_FF_DEFAULT
+                0x00407490                NVRAM_EF_ZERO_DEFAULT
+ .text          0x00408230      0x8c0 ../debug/nvram_cust_pack.o
+                0x004084d0                NVRAM_EF_MMI_CACHE_SHORT_DEFAULT
+                0x004088f0                COMMON_NVRAM_EF_INET_CUSTPACK_DEFAULT
+                0x004082a0                COMMON_NVRAM_EF_RAC_PREFERENCE_DEFAULT
+                0x00408296                COMMON_NVRAM_EF_ALS_LINE_ID_DEFAULT
+                0x00408298                COMMON_NVRAM_EF_MSCAP_DEFAULT
+                0x00408230                COMMON_NVRAM_EF_SMSAL_MAILBOX_ADDR_DEFAULT
+                0x004082b7                COMMON_NVRAM_EF_CB_DEFAULT_CH_DEFAULT
+                0x004086d0                NVRAM_EF_MMI_CACHE_DOUBLE_DEFAULT
+                0x004082d0                NVRAM_EF_MMI_CACHE_BYTE_DEFAULT
+                0x004088c8                COMMON_NVRAM_EF_PHB_SOS_DEFAULT
+                0x004082a7                COMMON_NVRAM_EF_SMSAL_COMMON_PARAM_DEFAULT
+                0x00408270                COMMON_NVRAM_EF_MS_SECURITY_DEFAULT
+ .text          0x00408af0       0xe0 ../debug/custom_nvram_sec.o
+                0x00408af0                custom_secret_key
+                0x00408b10                NVRAM_EF_SML_DEFAULT
+                0x00408af8                NVRAM_SECURE_PARA
+ .text          0x00408bd0      0x2e0 ../debug/fs_quota_entry_dump.o
+                0x00408cda                nvram_gen_fs_quota
+                0x00408be6                FS_QuotaInit
+ .text          0x00408eb0       0xc0 ../debug/adc_nvram_def.o
+ .text          0x00408f70       0xa0 ../debug/camera_nvram_def.o
+ .text          0x00409010      0x1a0 ../debug/touchpanel_nvram_def.o
+                0x00409010                NVRAM_TOUCHPANEL_DEFAULT
+ .text          0x004091b0      0x6e0 ../debug/nvram_user_config.o
+                0x004091b0                NVRAM_EF_CUST_HW_LEVEL_TBL_DEFAULT
+ .text          0x00409890      0xca0 ../debug/nvram_common_config.o
+                0x00409a20                NVRAM_EF_MMS_SENDING_SETTING_CONTENT_DEFAULT
+                0x00409910                NVRAM_EF_MMS_COMPOSE_SETTING_CONTENT_DEFAULT
+                0x00409a34                NVRAM_EF_PUSH_GEN_SETTING_DEFAULT
+ .text          0x0040a530     0x10c0 ../debug/audio_nvram_def.o
+ .text          0x0040b5f0       0x60 ../debug/mmi_gps_nvram_def.o
+ .text          0x0040b650      0x200 ../debug/userprofile_nvram_def.o
+                0x0040b650                NVRAM_PROFILES_DEFAULT
+ .text          0x0040b850       0xa0 ../debug/fs_quota.o
+                0x0040b8cd                fs_quota_init
+ .text          0x0040b8f0       0x70 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(pseudo-reloc.o)
+                0x0040b930                _pei386_runtime_relocator
+ .text          0x0040b960       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRT_fp10.o)
+                0x0040b960                _fpreset
+                0x0040b960                fpreset
+ .text          0x0040b970       0xb0 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(gccmain.o)
+                0x0040ba00                __main
+                0x0040b970                __do_global_dtors
+                0x0040b9a0                __do_global_ctors
+ .text          0x0040ba20      0x320 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+                0x0040bae0                __w32_sharedptr_initialize
+ .text          0x0040bd40       0x30 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_chkstk.o)
+                0x0040bd40                __chkstk
+                0x0040bd40                _alloca
+ .text          0x0040bd70        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+                0x0040bd70                access
+ *fill*         0x0040bd78        0x8 00
+ .text          0x0040bd80        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+                0x0040bd80                stricmp
+ *fill*         0x0040bd88        0x8 00
+ .text          0x0040bd90        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+                0x0040bd90                __set_app_type
+ *fill*         0x0040bd98        0x8 00
+ .text          0x0040bda0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+                0x0040bda0                _cexit
+ *fill*         0x0040bda8        0x8 00
+ .text          0x0040bdb0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+                0x0040bdb0                __p__environ
+ *fill*         0x0040bdb8        0x8 00
+ .text          0x0040bdc0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+                0x0040bdc0                signal
+ *fill*         0x0040bdc8        0x8 00
+ .text          0x0040bdd0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+                0x0040bdd0                __p__fmode
+ *fill*         0x0040bdd8        0x8 00
+ .text          0x0040bde0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+                0x0040bde0                _setmode
+ *fill*         0x0040bde8        0x8 00
+ .text          0x0040bdf0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+                0x0040bdf0                __getmainargs
+ *fill*         0x0040bdf8        0x8 00
+ .text          0x0040be00        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+                0x0040be00                system
+ *fill*         0x0040be08        0x8 00
+ .text          0x0040be10        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+                0x0040be10                sprintf
+ *fill*         0x0040be18        0x8 00
+ .text          0x0040be20        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+                0x0040be20                strlen
+ *fill*         0x0040be28        0x8 00
+ .text          0x0040be30        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+                0x0040be30                malloc
+ *fill*         0x0040be38        0x8 00
+ .text          0x0040be40        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+                0x0040be40                fclose
+ *fill*         0x0040be48        0x8 00
+ .text          0x0040be50        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+                0x0040be50                printf
+ *fill*         0x0040be58        0x8 00
+ .text          0x0040be60        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+                0x0040be60                strrchr
+ *fill*         0x0040be68        0x8 00
+ .text          0x0040be70        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+                0x0040be70                strstr
+ *fill*         0x0040be78        0x8 00
+ .text          0x0040be80        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+                0x0040be80                strchr
+ *fill*         0x0040be88        0x8 00
+ .text          0x0040be90        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+                0x0040be90                fgets
+ *fill*         0x0040be98        0x8 00
+ .text          0x0040bea0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+                0x0040bea0                _errno
+ *fill*         0x0040bea8        0x8 00
+ .text          0x0040beb0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+                0x0040beb0                strerror
+ *fill*         0x0040beb8        0x8 00
+ .text          0x0040bec0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+                0x0040bec0                fopen
+ *fill*         0x0040bec8        0x8 00
+ .text          0x0040bed0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+                0x0040bed0                exit
+ *fill*         0x0040bed8        0x8 00
+ .text          0x0040bee0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+                0x0040bee0                fprintf
+ *fill*         0x0040bee8        0x8 00
+ .text          0x0040bef0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+                0x0040bef0                memset
+ *fill*         0x0040bef8        0x8 00
+ .text          0x0040bf00        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+                0x0040bf00                strcmp
+ *fill*         0x0040bf08        0x8 00
+ .text          0x0040bf10        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+                0x0040bf10                free
+ *fill*         0x0040bf18        0x8 00
+ .text          0x0040bf20        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+                0x0040bf20                abort
+ *fill*         0x0040bf28        0x8 00
+ .text          0x0040bf30        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+                0x0040bf30                SetUnhandledExceptionFilter@4
+ *fill*         0x0040bf38        0x8 00
+ .text          0x0040bf40        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+                0x0040bf40                ExitProcess@4
+ *fill*         0x0040bf48        0x8 00
+ .text          0x0040bf50        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+                0x0040bf50                FindAtomA@4
+ *fill*         0x0040bf58        0x8 00
+ .text          0x0040bf60        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+                0x0040bf60                AddAtomA@4
+ *fill*         0x0040bf68        0x8 00
+ .text          0x0040bf70        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+                0x0040bf70                GetAtomNameA@12
+ *fill*         0x0040bf78        0x8 00
+ .text          0x0040bf80       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtend.o
+ *(SORT(.text$*))
+ *(.glue_7t)
+ *(.glue_7)
+                0x0040bf90                ___CTOR_LIST__ = .
+                0x0040bf90                __CTOR_LIST__ = .
+                0x0040bf90        0x4 LONG 0xffffffff
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0040bf94        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtend.o
+ *(.ctor)
+                0x0040bf98        0x4 LONG 0x0
+                0x0040bf9c                ___DTOR_LIST__ = .
+                0x0040bf9c                __DTOR_LIST__ = .
+                0x0040bf9c        0x4 LONG 0xffffffff
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.dtor)
+                0x0040bfa0        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                0x0040bfa4                etext = .
+ *(.gcc_except_table)
+
+.data           0x0040c000      0x800
+                0x0040c000                __data_start__ = .
+ *(.data)
+ .data          0x0040c000       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../crt2.o
+                0x0040c000                _argc
+                0x0040c004                _argv
+ .data          0x0040c010       0x10 ../debug/nvram_auto_gen.o
+ .data          0x0040c020      0x400 ../debug/nvram_data_items.o
+                0x0040c020                nvram_sys_cache
+ .data          0x0040c420       0xc0 ../debug/nvram_common_config.o
+                0x0040c4d8                nvram_ltable_comm_app
+                0x0040c420                NVRAM_EF_FF_GGT_DEFAULT
+ .data          0x0040c4e0       0x20 ../debug/custom_nvram_cat.o
+                0x0040c4e0                nvram_cat_replace_tbl
+ .data          0x0040c500      0x100 ../debug/fs_quota.o
+                0x0040c500                gFS_ExtQuotaSet
+ .data          0x0040c600       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRTglob.o)
+                0x0040c600                _CRT_glob
+ .data          0x0040c610       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(CRTfmode.o)
+                0x0040c610                _CRT_fmode
+ .data          0x0040c620       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(txtmode.o)
+                0x0040c620                _fmode
+ .data          0x0040c630       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(gccmain.o)
+ .data          0x0040c640       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a(pseudo-reloc-list.o)
+ .data          0x0040c650       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+ *(.data2)
+ *(SORT(.data$*))
+                0x0040c660                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x0040d000        0x0
+ *(.rdata)
+ *(SORT(.rdata$*))
+ *(.eh_frame)
+                0x0040d000                ___RUNTIME_PSEUDO_RELOC_LIST__ = .
+                0x0040d000                __RUNTIME_PSEUDO_RELOC_LIST__ = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x0040d000                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0040d000                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+
+.pdata
+ *(.pdata)
+
+.bss            0x0040d000      0x540
+                0x0040d000                __bss_start__ = .
+ *(.bss)
+ .bss           0x0040d000       0xe0 ../debug/nvram_auto_gen.o
+ .bss           0x0040d0e0       0x20 ../debug/nvram_gen_util.o
+                0x0040d0e4                secupack_total_to_verify
+                0x0040d0f4                nvram_gen_backup_total
+                0x0040d0e8                secupack_size_to_verify
+                0x0040d0f0                nvram_gen_backup_size
+                0x0040d0ec                secupack_idx
+                0x0040d0e0                custpack_total_to_verify
+ .bss           0x0040d100      0x180 ../debug/nvram_common_config.o
+ .bss           0x0040d280       0x20 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+ *(COMMON)
+ COMMON         0x0040d2a0      0x200 ../debug/nvram_auto_gen.o
+                                  0x0 (size before relaxing)
+                0x0040d2a0                s
+ COMMON         0x0040d4a0       0x30 ../debug/nvram_gen_util.o
+                                  0x0 (size before relaxing)
+                0x0040d4a0                logical_data_item_table
+                0x0040d4b0                nvram_gen_total_lid
+                0x0040d4c0                system_boot_mode
+ COMMON         0x0040d4d0       0x20 ../debug/fs_quota_entry_dump.o
+                                  0x0 (size before relaxing)
+                0x0040d4d0                gFS_IntQuotaSet
+                0x0040d4e0                FS_MAX_QSET
+ COMMON         0x0040d4f0       0x30 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(w32-shared-ptr.o)
+                                  0x0 (size before relaxing)
+                0x0040d4f0                __w32_sharedptr_terminate
+                0x0040d500                __w32_sharedptr
+                0x0040d510                __w32_sharedptr_unexpected
+ COMMON         0x0040d520       0x20 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a(_ctors.o)
+                                  0x0 (size before relaxing)
+                0x0040d540                __bss_end__ = .
+
+.edata
+ *(.edata)
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+
+.idata          0x0040e000      0x600
+ SORT(*)(.idata$2)
+ .idata$2       0x0040e000       0x14 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dh.o)
+                0x0040e000                _head_libkernel32_a
+ .idata$2       0x0040e014       0x14 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dh.o)
+                0x0040e014                _head_libmoldname_a
+ .idata$2       0x0040e028       0x14 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dh.o)
+                0x0040e028                _head_libmsvcrt_a
+ SORT(*)(.idata$3)
+                0x0040e03c        0x4 LONG 0x0
+                0x0040e040        0x4 LONG 0x0
+                0x0040e044        0x4 LONG 0x0
+                0x0040e048        0x4 LONG 0x0
+                0x0040e04c        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x0040e050        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dh.o)
+ .idata$4       0x0040e054        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+ .idata$4       0x0040e058        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+ .idata$4       0x0040e05c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+ .idata$4       0x0040e060        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+ .idata$4       0x0040e064        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+ .idata$4       0x0040e068        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dt.o)
+ .idata$4       0x0040e06c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dh.o)
+ .idata$4       0x0040e070        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+ .idata$4       0x0040e074        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+ .idata$4       0x0040e078        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dt.o)
+ .idata$4       0x0040e07c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dh.o)
+ .idata$4       0x0040e080        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+ .idata$4       0x0040e084        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+ .idata$4       0x0040e088        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+ .idata$4       0x0040e08c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+ .idata$4       0x0040e090        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+ .idata$4       0x0040e094        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+ .idata$4       0x0040e098        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o)
+ .idata$4       0x0040e09c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00336.o)
+ .idata$4       0x0040e0a0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+ .idata$4       0x0040e0a4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+ .idata$4       0x0040e0a8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00517.o)
+ .idata$4       0x0040e0ac        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+ .idata$4       0x0040e0b0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+ .idata$4       0x0040e0b4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+ .idata$4       0x0040e0b8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+ .idata$4       0x0040e0bc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+ .idata$4       0x0040e0c0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+ .idata$4       0x0040e0c4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+ .idata$4       0x0040e0c8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+ .idata$4       0x0040e0cc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+ .idata$4       0x0040e0d0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+ .idata$4       0x0040e0d4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+ .idata$4       0x0040e0d8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+ .idata$4       0x0040e0dc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+ .idata$4       0x0040e0e0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+ .idata$4       0x0040e0e4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+ .idata$4       0x0040e0e8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+ .idata$4       0x0040e0ec        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+ .idata$4       0x0040e0f0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+ .idata$4       0x0040e0f4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dt.o)
+ SORT(*)(.idata$5)
+ .idata$5       0x0040e0f8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dh.o)
+ .idata$5       0x0040e0fc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+                0x0040e0fc                _imp__AddAtomA@4
+ .idata$5       0x0040e100        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+                0x0040e100                _imp__ExitProcess@4
+ .idata$5       0x0040e104        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+                0x0040e104                _imp__FindAtomA@4
+ .idata$5       0x0040e108        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+                0x0040e108                _imp__GetAtomNameA@12
+ .idata$5       0x0040e10c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+                0x0040e10c                _imp__SetUnhandledExceptionFilter@4
+ .idata$5       0x0040e110        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dt.o)
+ .idata$5       0x0040e114        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dh.o)
+ .idata$5       0x0040e118        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+                0x0040e118                _imp__access
+ .idata$5       0x0040e11c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+                0x0040e11c                _imp__stricmp
+ .idata$5       0x0040e120        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dt.o)
+ .idata$5       0x0040e124        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dh.o)
+ .idata$5       0x0040e128        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+                0x0040e128                _imp____getmainargs
+ .idata$5       0x0040e12c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+                0x0040e12c                _imp____p__environ
+ .idata$5       0x0040e130        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+                0x0040e130                _imp____p__fmode
+ .idata$5       0x0040e134        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+                0x0040e134                _imp____set_app_type
+ .idata$5       0x0040e138        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+                0x0040e138                _imp___cexit
+ .idata$5       0x0040e13c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+                0x0040e13c                _imp___errno
+ .idata$5       0x0040e140        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o)
+                0x0040e140                _imp___iob
+ .idata$5       0x0040e144        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00336.o)
+                0x0040e144                _imp___onexit
+ .idata$5       0x0040e148        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+                0x0040e148                _imp___setmode
+ .idata$5       0x0040e14c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+                0x0040e14c                _imp__abort
+ .idata$5       0x0040e150        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00517.o)
+                0x0040e150                _imp__atexit
+ .idata$5       0x0040e154        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+                0x0040e154                _imp__exit
+ .idata$5       0x0040e158        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+                0x0040e158                _imp__fclose
+ .idata$5       0x0040e15c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+                0x0040e15c                _imp__fgets
+ .idata$5       0x0040e160        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+                0x0040e160                _imp__fopen
+ .idata$5       0x0040e164        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+                0x0040e164                _imp__fprintf
+ .idata$5       0x0040e168        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+                0x0040e168                _imp__free
+ .idata$5       0x0040e16c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+                0x0040e16c                _imp__malloc
+ .idata$5       0x0040e170        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+                0x0040e170                _imp__memset
+ .idata$5       0x0040e174        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+                0x0040e174                _imp__printf
+ .idata$5       0x0040e178        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+                0x0040e178                _imp__signal
+ .idata$5       0x0040e17c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+                0x0040e17c                _imp__sprintf
+ .idata$5       0x0040e180        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+                0x0040e180                _imp__strchr
+ .idata$5       0x0040e184        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+                0x0040e184                _imp__strcmp
+ .idata$5       0x0040e188        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+                0x0040e188                _imp__strerror
+ .idata$5       0x0040e18c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+                0x0040e18c                _imp__strlen
+ .idata$5       0x0040e190        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+                0x0040e190                _imp__strrchr
+ .idata$5       0x0040e194        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+                0x0040e194                _imp__strstr
+ .idata$5       0x0040e198        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+                0x0040e198                _imp__system
+ .idata$5       0x0040e19c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dt.o)
+ SORT(*)(.idata$6)
+ .idata$6       0x0040e1a0        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+ .idata$6       0x0040e1ac        0xe d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+ *fill*         0x0040e1ba        0x2 00
+ .idata$6       0x0040e1bc        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+ .idata$6       0x0040e1c8       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+ .idata$6       0x0040e1d8       0x1e d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+ *fill*         0x0040e1f6        0x2 00
+ .idata$6       0x0040e1f8        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+ *fill*         0x0040e202        0x2 00
+ .idata$6       0x0040e204        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+ .idata$6       0x0040e210       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+ .idata$6       0x0040e220       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+ .idata$6       0x0040e230        0xe d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+ *fill*         0x0040e23e        0x2 00
+ .idata$6       0x0040e240       0x12 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+ *fill*         0x0040e252        0x2 00
+ .idata$6       0x0040e254        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+ *fill*         0x0040e25e        0x2 00
+ .idata$6       0x0040e260        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+ *fill*         0x0040e26a        0x2 00
+ .idata$6       0x0040e26c        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o)
+ .idata$6       0x0040e274        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00336.o)
+ *fill*         0x0040e27e        0x2 00
+ .idata$6       0x0040e280        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+ .idata$6       0x0040e28c        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+ .idata$6       0x0040e294        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00517.o)
+ *fill*         0x0040e29e        0x2 00
+ .idata$6       0x0040e2a0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+ .idata$6       0x0040e2a8        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+ *fill*         0x0040e2b2        0x2 00
+ .idata$6       0x0040e2b4        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+ .idata$6       0x0040e2bc        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+ .idata$6       0x0040e2c4        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+ *fill*         0x0040e2ce        0x2 00
+ .idata$6       0x0040e2d0        0x8 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+ .idata$6       0x0040e2d8        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+ *fill*         0x0040e2e2        0x2 00
+ .idata$6       0x0040e2e4        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+ *fill*         0x0040e2ee        0x2 00
+ .idata$6       0x0040e2f0        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+ *fill*         0x0040e2fa        0x2 00
+ .idata$6       0x0040e2fc        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+ *fill*         0x0040e306        0x2 00
+ .idata$6       0x0040e308        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+ *fill*         0x0040e312        0x2 00
+ .idata$6       0x0040e314        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+ *fill*         0x0040e31e        0x2 00
+ .idata$6       0x0040e320        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+ *fill*         0x0040e32a        0x2 00
+ .idata$6       0x0040e32c        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+ .idata$6       0x0040e338        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+ *fill*         0x0040e342        0x2 00
+ .idata$6       0x0040e344        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+ *fill*         0x0040e34e        0x2 00
+ .idata$6       0x0040e350        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+ *fill*         0x0040e35a        0x2 00
+ .idata$6       0x0040e35c        0xa d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+ SORT(*)(.idata$7)
+ *fill*         0x0040e366        0x2 00
+ .idata$7       0x0040e368        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00000.o)
+ .idata$7       0x0040e36c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00131.o)
+ .idata$7       0x0040e370        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00148.o)
+ .idata$7       0x0040e374        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00193.o)
+ .idata$7       0x0040e378        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(ds00660.o)
+ .idata$7       0x0040e37c       0x10 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a(dt.o)
+                0x0040e37c                _libkernel32_a_iname
+ .idata$7       0x0040e38c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00000.o)
+ .idata$7       0x0040e390        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(ds00084.o)
+ .idata$7       0x0040e394        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a(dt.o)
+                0x0040e394                _libmoldname_a_iname
+ .idata$7       0x0040e3a0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00039.o)
+ .idata$7       0x0040e3a4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00059.o)
+ .idata$7       0x0040e3a8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00061.o)
+ .idata$7       0x0040e3ac        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00078.o)
+ .idata$7       0x0040e3b0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00118.o)
+ .idata$7       0x0040e3b4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00147.o)
+ .idata$7       0x0040e3b8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00222.o)
+ .idata$7       0x0040e3bc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00336.o)
+ .idata$7       0x0040e3c0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00373.o)
+ .idata$7       0x0040e3c4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00510.o)
+ .idata$7       0x0040e3c8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00517.o)
+ .idata$7       0x0040e3cc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00531.o)
+ .idata$7       0x0040e3d0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00534.o)
+ .idata$7       0x0040e3d4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00540.o)
+ .idata$7       0x0040e3d8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00545.o)
+ .idata$7       0x0040e3dc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00546.o)
+ .idata$7       0x0040e3e0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00552.o)
+ .idata$7       0x0040e3e4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00603.o)
+ .idata$7       0x0040e3e8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00611.o)
+ .idata$7       0x0040e3ec        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00616.o)
+ .idata$7       0x0040e3f0        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00633.o)
+ .idata$7       0x0040e3f4        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00636.o)
+ .idata$7       0x0040e3f8        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00641.o)
+ .idata$7       0x0040e3fc        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00642.o)
+ .idata$7       0x0040e400        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00646.o)
+ .idata$7       0x0040e404        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00648.o)
+ .idata$7       0x0040e408        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00653.o)
+ .idata$7       0x0040e40c        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00655.o)
+ .idata$7       0x0040e410        0x4 d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(ds00663.o)
+ .idata$7       0x0040e414        0xc d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a(dt.o)
+                0x0040e414                _libmsvcrt_a_iname
+
+.CRT
+ *(SORT(.CRT$*))
+
+.endjunk        0x0040f000        0x0
+                0x0040f000                end = .
+                0x0040f000                _end = .
+                0x0040f000                __end__ = .
+
+.rsrc
+ *(.rsrc)
+ *(SORT(.rsrc$*))
+
+.reloc
+ *(.reloc)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+NVRAM_LTABLE    0x0040f000     0x1400
+                0x0040f000                _nvram_ltable_begin = .
+ *(_nvram_ltable)
+ _nvram_ltable  0x0040f000       0x50 ../debug/nvram_gen_util.o
+                0x0040f000                logical_data_item_table_internal
+ _nvram_ltable  0x0040f050      0x4b0 ../debug/nvram_factory_config.o
+                0x0040f050                logical_data_item_table_factory
+ _nvram_ltable  0x0040f500      0x500 ../debug/nvram_data_items.o
+                0x0040f500                logical_data_item_table_core
+ _nvram_ltable  0x0040fa00       0x28 ../debug/adc_nvram_def.o
+                0x0040fa00                logical_data_item_table_adc
+ _nvram_ltable  0x0040fa28       0x50 ../debug/camera_nvram_def.o
+                0x0040fa28                logical_data_item_table_camera
+ _nvram_ltable  0x0040fa78       0x28 ../debug/touchpanel_nvram_def.o
+                0x0040fa78                logical_data_item_table_touchpanel
+ _nvram_ltable  0x0040faa0      0x7d0 ../debug/nvram_common_config.o
+                0x0040faa0                logical_data_item_table_common_app
+ _nvram_ltable  0x00410270       0xc8 ../debug/audio_nvram_def.o
+                0x00410270                logical_data_item_table_audio
+ _nvram_ltable  0x00410338       0x28 ../debug/mmi_gps_nvram_def.o
+                0x00410338                logical_data_item_table_mmi_gps
+ _nvram_ltable  0x00410360       0x50 ../debug/userprofile_nvram_def.o
+                0x00410360                logical_data_item_table_userprofile
+                0x004103b0                _nvram_ltable_end = .
+                0x004103b0                _indirect_init_begin = .
+ *(_indirect_init)
+ _indirect_init
+                0x004103b0        0x4 ../debug/fs_quota.o
+                0x004103b0                g_fs_quota_init
+                0x004103b4                _indirect_init_end = .
+LOAD ../debug/nvram_auto_gen.o
+LOAD ../debug/nvram_gen_util.o
+LOAD ../debug/nvram_factory_config.o
+LOAD ../debug/nvram_data_items.o
+LOAD ../debug/nvram_cust_pack.o
+LOAD ../debug/custom_nvram_sec.o
+LOAD ../debug/fs_quota_entry_dump.o
+LOAD ../debug/ul1_nvram_def.o
+LOAD ../debug/adc_nvram_def.o
+LOAD ../debug/camera_nvram_def.o
+LOAD ../debug/touchpanel_nvram_def.o
+LOAD ../debug/nvram_user_config.o
+LOAD ../debug/nvram_common_config.o
+LOAD ../debug/custom_nvram_cat.o
+LOAD ../debug/audio_nvram_def.o
+LOAD ../debug/mmi_gps_nvram_def.o
+LOAD ../debug/userprofile_nvram_def.o
+LOAD ../debug/fs_quota.o
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingwex.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libuser32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libkernel32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libadvapi32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libshell32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingw32.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/libgcc.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmoldname.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmingwex.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/../../../libmsvcrt.a
+LOAD d:/software/ovi_2503a_s3trc/ovi_2503a_s3trc/Tools/MinGW/bin/../lib/gcc-lib/mingw32/3.3.1/crtend.o
+OUTPUT(../debug/nvram_auto_gen.exe pei-i386)

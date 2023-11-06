@@ -1,0 +1,23 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      5652        212          0          8       1454   mma_create.obj
+         0          0          0          0          0   mma_drmsrv.obj
+      2178          0          0        240       1201   mma_env.obj
+         0          0         18          0          0   mma_event.obj
+      3636          0          0          0       3894   mma_interface.obj
+      1352          0          0         20       1297   mma_main.obj
+       380        288          0         12        535   mma_mime.obj
+     10528        333          0          4       6839   mma_msg_struct.obj
+     11988          0          0        148       3707   mma_msgmgr.obj
+      6448          0          1         28       1332   mma_parse.obj
+      2234          0          0         36       1293   mma_sendrecv.obj
+      1984          0          0         52       1596   mma_setting.obj
+      6614        878          0          8       2323   mma_smil.obj
+      4774          0          0          4       2719   mma_um.obj
+      1500          0          0          4       1953   mma_utilities.obj
+         0          0          0          0          0   mma_xml.obj
+        50          0          0          0        229   mms_a.obj
+      1684        143          0         35       1184   mms_aApp.obj
+       608         20          0         64        517   mms_exec.obj
+     61610       1874         19        663      32073   TOTAL
+

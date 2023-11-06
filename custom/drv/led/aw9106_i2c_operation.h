@@ -1,0 +1,7 @@
+
+
+#define AW9106_I2C_LOW				0
+#define AW9106_I2C_HIGH			1
+#define AW9106_I2C_ACK				AW9106_I2C_LOW
+#define AW9106_I2C_NAK				AW9106_I2C_HIGH
+

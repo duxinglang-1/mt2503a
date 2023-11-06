@@ -1,0 +1,14 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      2746         16        108        192       2803   dcl_memory_card.obj
+      3068          0         24       4908       2110   msdc.obj
+      2998          0         21       4908       2060   msdc2.obj
+         0          0          0          0          0   msdc_fake_kal.obj
+      8470          0         52        364       4408   sd.obj
+      8470          0         52        364       4347   sd2.obj
+         0          0          0          0          0   sd_adap.obj
+      2788          0         72          1        988   sd_drv.obj
+      6174         17        128        856       4508   sdio_drv.obj
+       400          0         32          0        534   usbms_msdc.obj
+     35114         33        489      11593      21758   TOTAL
+

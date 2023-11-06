@@ -1,0 +1,16 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4596        352        444        808       3522   hdi_file.obj
+       694        120          0     178257        884   hdi_mem.obj
+       118          0          4          0        283   hdi_networkaccount.obj
+      2308          0          0        412       1348   hdi_pipe.obj
+       460          0          0        264        542   hdi_signal.obj
+      1384         52        680         28       4595   int_exec.obj
+       156          0          0          4        303   int_timer.obj
+         0          0          0          0          0   msf_int.obj
+       204          0          0          8        434   msf_misc.obj
+      1708          0          2        184       1612   msf_socket.obj
+       582       1810          0          0        447   msf_xchr.obj
+      3168        266         80         68       2191   msm_int.obj
+     15378       2600       1210     180033      16161   TOTAL
+

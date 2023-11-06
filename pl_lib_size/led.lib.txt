@@ -1,0 +1,5 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      2662          0          0         20       1559   aw9106.obj
+      2662          0          0         20       1559   TOTAL
+

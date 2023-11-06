@@ -1,0 +1,6 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+         6          0          0          0        156   che_hw_driver.obj
+       392          0          1          2        288   gcu.obj
+       398          0          1          2        444   TOTAL
+

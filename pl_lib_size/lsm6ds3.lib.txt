@@ -1,0 +1,8 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      8668        515        316      39611       1974   algorithm.obj
+       472          0          0          0        347   algorithm_config.obj
+     13320          0          0          0      15083   lsm6ds3.obj
+      1756          0          0         12        703   lsm6ds3_i2c_operation.obj
+     24216        515        316      39623      18107   TOTAL
+

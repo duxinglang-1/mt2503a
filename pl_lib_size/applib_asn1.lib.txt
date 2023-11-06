@@ -1,0 +1,7 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      1516        520          0          4       1880   applib_asn_common.obj
+       188          0          0          0        421   applib_asn_memory.obj
+      1894          0          0          0       1659   applib_asn_uper_common.obj
+      3598        520          0          4       3960   TOTAL
+

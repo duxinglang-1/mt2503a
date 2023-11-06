@@ -1,0 +1,5 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      1256        128          0      22556       1447   CstarEngine.obj
+      1256        128          0      22556       1447   TOTAL
+

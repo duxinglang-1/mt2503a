@@ -1,0 +1,8 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4992       2981         12          1       3930   MT6250FM_drv.obj
+       522          0          0          0        475   MT6250FM_rds.obj
+         0       4553          0          0          0   MT6626_drv.obj
+         0          0          0          0          0   MT6626_rds.obj
+      5514       7534         12          1       4405   TOTAL
+

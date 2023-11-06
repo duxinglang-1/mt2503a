@@ -1,0 +1,13 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+         0      80822          0          0          0   MAdpCfgRomData.obj
+        94          5          0          0        624   MAdpConfig.obj
+       906         96          0          8       1281   MAdpMenu.obj
+         0       7047          0          0          0   MAdpResData.obj
+         0          0          0          0          0   MadpDummy.obj
+     14090        528         20       1624      18234   McfOsWrapper.obj
+      6982       4920         76          8       1511   McfZlib.obj
+         0          0          0          0          0   vapp_mcare.obj
+         6          0          0          0        104   vapp_mcare_ncenter.obj
+     22078      93418         96       1640      21754   TOTAL
+

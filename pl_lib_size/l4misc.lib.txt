@@ -1,0 +1,40 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+     47344       1264         88          0      55712   l4a_callback.obj
+      1390          0          0          0       2533   l4a_cmd.obj
+       122          0          0          0        242   l4a_main.obj
+       180          0          0          0        590   phb_common.obj
+         0          0          0         33          0   phb_config.obj
+       240          0          0       1092        246   phb_context.obj
+       110          0          0          0        339   phb_control_block.obj
+      1782          0          0          0       1596   phb_data_desc.obj
+       310          0          0          0        483   phb_data_entry_table.obj
+         0          0          0          0          0   phb_handler_approve.obj
+       858          0          0          0        319   phb_handler_delete.obj
+       270          0          0          0        189   phb_handler_delete_ln.obj
+      1316          0          0          0        403   phb_handler_read.obj
+       334          0          0          0        189   phb_handler_read_ln.obj
+       500          0          0          0        131   phb_handler_sat.obj
+         0          0          0          0          0   phb_handler_search.obj
+      3992          0        424         12       1234   phb_handler_startup.obj
+       266          0          0          0        299   phb_handler_startup_ln.obj
+       840          0          0          0        326   phb_handler_write.obj
+       338          0          0          0        248   phb_handler_write_ln.obj
+       108          0          0          0         74   phb_ilm.obj
+       638          0          0          0        298   phb_main.obj
+      3174          0          0          0       2281   phb_name_num_index.obj
+         0          0          0          0          0   phb_nvram_access.obj
+       406          0          0          0        592   phb_pindex.obj
+       742         71          0         32        651   phb_sap.obj
+      2788          0          8        512       1545   phb_se.obj
+      3796          0          0          0       1540   phb_sim_access.obj
+      2396        296          0          0       1892   phb_utils.obj
+       280          0          0         30        437   uem_at_cmd.obj
+       928          0          3         16        879   uem_gpio_ctrl.obj
+      1056          0          0        512        491   uem_main.obj
+      1482          0          1          0       1988   uem_msg_hdlr.obj
+      2852          0          0          5       3028   uem_proc_cmd.obj
+      1552          0          0          0       1179   uem_proc_msg.obj
+      3664         30          0         44       4090   uem_utility.obj
+     86054       1661        524       2288      86044   TOTAL
+

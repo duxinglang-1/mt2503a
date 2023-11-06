@@ -1,0 +1,25 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+        16          0          0          0        312   BookmarkCui.obj
+         4          0          0          0         52   EmailAppAPI.obj
+      6686          0         10          8       2528   MMSAppComposerUILE.obj
+      1422          0          8        990       3083   MMSAppDataManager.obj
+      3454          0          0          0       6331   MMSAppInterface.obj
+        16          0          0          0        111   MMSAppOp.obj
+         0          0          0          0          0   MMSAppResourceCntrlDB.obj
+         0          0          0          0          0   MMSAppResourceDB.obj
+      3764          0          0         84       6927   MMSAppScrHdlr.obj
+       498          0          0          4        242   MMSAppSettings.obj
+      3804          0          0          1       3739   MMSAppSrvHdlr.obj
+      7876          0          0          4       6204   MMSAppUICallback.obj
+         0          0          0          0          0   MMSAppUIController.obj
+      7646        556        146         26      10138   MMSAppUIPlugin.obj
+      2406          0          0          2       1224   MMSAppUIdraw.obj
+       184          0          0          0        284   MMSAppUtil.obj
+       974          6          0          4        757   WAPprofilemain.obj
+        52          0          0          0        118   WAPprofileuihandler.obj
+         0          0          0          0          0   WAPprovisioningmain.obj
+         0          0          0          0          0   centralconfigagentmain.obj
+         0          0          0          0          0   centralconfigagentui.obj
+     38802        562        164       1123      42050   TOTAL
+

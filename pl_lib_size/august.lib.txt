@@ -1,0 +1,5 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      6418        400        128        808       3164   august_net.obj
+      6418        400        128        808       3164   TOTAL
+

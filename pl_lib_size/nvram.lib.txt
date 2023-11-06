@@ -1,0 +1,21 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      1902          0          0          8     714393   nvram_drval_fat.obj
+         0          0          0          0     698340   nvram_ex_io.obj
+         0         57        960          0     804783   nvram_factory_config.obj
+       312          0          0          0     700650   nvram_handler_read.obj
+       332          0          0          0     701811   nvram_handler_reset.obj
+       104          0          0          0     699835   nvram_handler_startup.obj
+       360          0          0          0     700610   nvram_handler_write.obj
+        80          0          0          0     282586   nvram_ilm.obj
+      1888          0          0        512     722377   nvram_interface.obj
+      1960          0          0          0     739525   nvram_io.obj
+       342          0          0          0     710068   nvram_l1def.obj
+       712          4         64          8     837952   nvram_ltable.obj
+      3218         20          4        512     825005   nvram_main.obj
+       174          0          0          0     702662   nvram_msg_handler.obj
+       244         81         16          0     702949   nvram_multi_folder.obj
+      2588         34          0         36     718993   nvram_pseudo_merge.obj
+       548          0          0          0     745358   nvram_util.obj
+     14764        196       1044       1076   12007897   TOTAL
+

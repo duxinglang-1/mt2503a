@@ -1,0 +1,14 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      1838          0        120       2928       1240   bwcs_tdd.obj
+         0          0          0          0          0   mtkstp.obj
+         0          0          0          0          0   stp_drv.obj
+         0          0          0          0          0   stp_uart.obj
+         0          0          0          0          0   wmt_hdlr.obj
+         0          0          0          0          0   wmt_hdlr_ext.obj
+       578         20          4         85        532   wmt_main.obj
+         0      21584          0          0          0   wmt_patch.obj
+         0          0          0          0          0   wmt_pwr_hdlr.obj
+         0          0          0          0          0   wmt_uart.obj
+      2416      21604        124       3013       1772   TOTAL
+

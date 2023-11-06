@@ -1,0 +1,8 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      3330         62          0         44       4320   fm_radio.obj
+      3128          0          5         12        818   fm_rds.obj
+       336         20          4         36        363   fmr_main.obj
+        24        431          0          0        156   mpll_freq_hopping_FM.obj
+      6818        513          9         92       5657   TOTAL
+

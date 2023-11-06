@@ -1,0 +1,19 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+       810          8          0          0        432   sm_activation.obj
+      9602          0          0          0       5228   sm_common.obj
+        84         20          0          0        116   sm_create.obj
+         0        288          0          0          0   sm_data_plane_config.obj
+       202          0          0          0        180   sm_data_plane_only.obj
+      1606          0          0          0        608   sm_deactivation.obj
+       212          0          0          0         68   sm_deinit.obj
+       740          0          0          0        436   sm_fsm.obj
+      1710          0          0          0       1148   sm_general.obj
+       364          0          0       1220        140   sm_init.obj
+       126          0          0          0        112   sm_main.obj
+       360          0          0          0        136   sm_modification.obj
+      4862        320          0          0       2416   sm_peer.obj
+       646          0          0          0        700   sm_protocol_error.obj
+      1052         20          0          0        860   sm_timer.obj
+     22376        656          0       1220      12580   TOTAL
+

@@ -1,0 +1,19 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+         0          0          0          0          0   msf_file.obj
+         0          0          0          0          0   msf_int.obj
+         0          0          0          0          0   msf_misc.obj
+         0          0          0          0          0   msf_nw_acc.obj
+         0          0          0          0          0   msf_pipe.obj
+         0          0          0          0          0   msf_signal.obj
+         0          0          0          0          0   msf_socket.obj
+         0          0          0          0          0   msm_int.obj
+      1632          0          0          0        471   wap_cmmn_utils.obj
+      1040         48          0          0        552   wap_cmn.obj
+      2422         20          4        148       1639   wap_create.obj
+        60          0          0          4        177   wap_mem.obj
+         4          0          0          0         52   wap_um.obj
+       332          0          0          6        574   wapadp.obj
+      1668         16          0          0       3308   widget_encoding.obj
+      7158         84          4        158       6773   TOTAL
+

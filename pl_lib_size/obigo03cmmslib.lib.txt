@@ -1,0 +1,35 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4046          0          0        124       1928   fldmgr.obj
+      1006          0          0         20        908   masync.obj
+      1730          0          0          4       1096   mcget.obj
+       316          0          0          0        252   mcnotif.obj
+         0          0          0          0          0   mconfig.obj
+      1462          0          0          0       1072   mcpdu.obj
+      3098          0          0         40       1708   mcpost.obj
+       392          0          0          4        312   mcsend.obj
+      3544          0          1        152       2036   mcwap.obj
+       712          0          0          0        216   mcwsp.obj
+      2600          0          0         64        952   mhandler.obj
+       214          0          0          0        208   mlcreate.obj
+      1532          0          0          0       1372   mlfetch.obj
+      1592          0          0          0       1020   mlfieldc.obj
+      3760         50         80          0       1052   mlfieldp.obj
+      1038          0          0          0        152   mlpduc.obj
+      1536          0          0          0        292   mlpdup.obj
+       828          0          0          8        484   mmain.obj
+        24          0          0          0         64   mmem.obj
+       902          0          0         56        548   mms_env.obj
+       426          0          0          0        776   mms_if.obj
+      9928          0          0          8       3904   mmsl_if.obj
+       334          0          0          0        704   mmsrec.obj
+       730          0          0          0        820   mmsrpl.obj
+      1814          0          0         16        940   mnotify.obj
+      1250          0          0         28        516   mreceive.obj
+      2480          0          0         44        948   mreport.obj
+       770          0          0         24        328   msend.obj
+       444          0          0         68        536   msig.obj
+       400          0          0         12        496   mtimer.obj
+      2030          0          0          4       1984   mutils.obj
+     50938         50         81        676      27624   TOTAL
+
